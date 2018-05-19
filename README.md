@@ -1,2 +1,11 @@
 # chrome-rich-presence
-A chrome extension for showing the website you visit in discord rich presence without any external applications
+
+Please note this extension uses the chrome.processes api which is only avaible in the [dev channel](http://www.chromium.org/getting-involved/dev-channel). So this extension won't work in the current version of chrome.
+
+### How to use
+
+clone all the files to a folder somewhere on your computer then browse to `chrome://extensions` enable developer mode and click **load unpacked extension**
+
+### Example 
+
+![](https://s.theindra.eu/Discord_2018-05-19_21-16-09.png)
