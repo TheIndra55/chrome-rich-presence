@@ -1,0 +1,19 @@
+{
+	"name": "Chrome rich-presence",
+	"version": "1.0",
+	"description": "Shows the chrome website in your discord status",
+	"background": {
+		"scripts": [
+			"background.js"
+		],
+		"persistent": true
+	},
+	"permissions": [
+		"http://localhost:6463/*",
+		"tabs",
+		"processes",
+		"webRequest",
+		"webRequestBlocking"
+	],
+	"manifest_version": 2
+}
