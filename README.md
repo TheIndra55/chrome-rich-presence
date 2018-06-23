@@ -1,5 +1,8 @@
 # chrome-rich-presence
 
+!!! THIS IS BROKEN !!!
+discord broke this extension with their latest update for more info see https://github.com/discordapp/discord-rpc/issues/191
+
 Please note this extension uses the chrome.processes api which is only avaible in the [dev channel](http://www.chromium.org/getting-involved/dev-channel). So this extension won't work in the current version of chrome.
 
 ### How to use
